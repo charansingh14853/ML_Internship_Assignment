@@ -70,7 +70,7 @@ The dataset, `events.csv`, contains user activities such as:
 
 ## Results
 - **Model Performance:**
-  - Precision: '1.00'
+  - Precision: `1.00`
   - Recall: `1.00`
   - F1 Score: `1.00`
   - AUC: `0.9999989099077742`
